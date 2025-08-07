@@ -1,0 +1,4 @@
+configuration:
+  texto: Configurando entorno produccion
+server:
+  port: 8009

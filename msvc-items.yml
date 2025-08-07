@@ -1,4 +1,4 @@
 server:
-  port: 8006
+  port: 8007
 configuration:
-  texto: Configurando entorno desarrollo
+  texto: Configurando entorno defecto

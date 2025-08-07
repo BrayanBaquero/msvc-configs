@@ -1,0 +1,5 @@
+configuration:
+  texto: Configurando entorno desarrollo
+  autor:
+    nombre: Brayan
+    email: brayan@correo.com
