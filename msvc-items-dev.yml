@@ -1,5 +1,5 @@
 configuration:
   texto: Configurando entorno desarrollo ...
   autor:
-    nombre: user
-    email: user@correo.com
+    nombre: OtherUser
+    email: OtherUser@correo.com
